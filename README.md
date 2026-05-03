@@ -112,7 +112,7 @@
 🔗 http://carenine.vitalstep.in/ 
 
 🚀 **Portfolio Website**  
-🔗 http://himanshuthakor.netlify.app/ 
+🔗 https://himanshuthakor.dev/
 
 📩 Contact Me: himanshuthakor3584@gmail.com
 
